@@ -23,7 +23,7 @@ export const useCurrentPlayerStore = defineStore('Game', {
         name: 'Modo Konoha',
         icons: { X: '/Naruto/IconParkSolidLightning.svg', O: '/Naruto/FileIconsShuriken.svg' },
         description: 'El mundo ninja. Un universo donde las potencias militares son mayormente ninjas entrenados y altamente capacitados. Existen varias aldeas ocultas donde reciden estos poderosos shinobis gobernadas por los Kage, titulo que hereda el ninja más poderoso de cada una. En este universo los personajes que encarnan son Naruto y Sasuke, dos rivales increiblemente poderosos y con un fuertes principio que los guían en su camino ninja ',
-        music: '/Naruto/26 - Reverse Situation.mp3'
+        music: '/Naruto/26 - Reverse Situation~1.mp3'
       },
       {
         id: 'One_Piece',
@@ -37,7 +37,7 @@ export const useCurrentPlayerStore = defineStore('Game', {
         name: 'Batalla de batallas',
         icons: { X: null, O: null },
         description: 'Han desbloqueado el modo secreto. Sus batallas han sido tan duras y parejas que un nuevo escenario de pelea se ha desbloqueado ante ustedes. La llamada Batalla de batallas en el centro de este multiverso. A partir de ahora no se moverán a no ser que halla un claro ganador. En este caso serán simplemente ustedes, con toda su experiecia y esfuerzo que los han llevado a este punto. Tengan la mejor pelea de todos los tiempos, y que gane el mejor',
-        music: '/Secreto/BSO Star Wars Pelea Anakin vs Obi wan.mp3'
+        music: '/Secreto/BSO Star Wars Pelea Anakin vs Obi wan~1.mp3'
       }
 
     ],

@@ -3,7 +3,7 @@
     <h2 :class="{'konoha-title': currentTheme?.id === 'Naruto',
       'onepiece-title': currentTheme?.id === 'One_Piece',
       'battle-title': currentTheme?.id === 'Secret'
-    }">{{ currentTheme.id }}</h2>
+    }">{{ currentTheme.name }}</h2>
     <p :class="{'konoha-title': currentTheme?.id === 'Naruto',
       'onepiece-title': currentTheme?.id === 'One_Piece',
       'battle-title': currentTheme?.id === 'Secret'

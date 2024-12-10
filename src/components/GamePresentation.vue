@@ -14,9 +14,9 @@
       reinicar, en la siguiente partida comenzará precisamente el que halla
       ganado; el primer movimiento es un derecho que debes obtener. Además si
       tocan este botón, y estás en el medio de una partida, en la siguiente
-      comenzará el jugador que no lo halla tocado.Presiona el boton de abajo
+      comenzará el jugador que no lo halla tocado. Presiona el boton de abajo
       cuando estén listos para inicar la aventura mas emocionante en el
-      TIC-TAC-TOE.
+      TIC-TAC-TOE.(PD: intenta llegar a los 5 empates y descubre que pasa ;) )
     </p>
     <div class="empezar" @click="goToContainerBoard">
       <p>Empezar la aventura</p>

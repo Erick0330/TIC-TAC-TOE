@@ -6,7 +6,7 @@ export const useCurrentPlayerStore = defineStore('Game', {
     currentPlayer: 'X' as Player, // Inicializa currentPlayer con 'X'
     playerXWins: 0, // Contador de victorias de X
     playerOWins: 0, // Contador de victorias de O
-    draws: 4,       // Contador de empates
+    draws: 0,       // Contador de empates
     currentThemeId: 'Tierra-0', // Aquí guardamos el id del tema actual
     totalThemes: 3,
     unlockSecret: false,

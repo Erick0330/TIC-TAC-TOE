@@ -23,7 +23,7 @@ export const useCurrentPlayerStore = defineStore('Game', {
         name: 'Modo Konoha',
         icons: { X: '/Naruto/IconParkSolidLightning.svg', O: '/Naruto/FileIconsShuriken.svg' },
         description: 'El mundo ninja. Un universo donde las potencias militares son mayormente ninjas entrenados y altamente capacitados. Existen varias aldeas ocultas donde reciden estos poderosos shinobis gobernadas por los Kage, titulo que hereda el ninja más poderoso de cada una. En este universo los personajes que encarnan son Naruto y Sasuke, dos rivales increiblemente poderosos y con un fuertes principio que los guían en su camino ninja ',
-        music: '/Naruto/26 - Reverse Situation.flac'
+        music: '/Naruto/26 - Reverse Situation.mp3'
       },
       {
         id: 'One_Piece',

@@ -116,4 +116,30 @@ p {
   font-weight: bold;
   text-shadow: 0 0 10px #ffffff;
 }
+
+@media (max-width:600px) {
+  h2 {
+  font-size: 25px;
+
+}
+
+.mensaje .text {
+  font-size: 15px;
+}
+
+.empezar p {
+  font-size: 15px;
+  color: #ffffff;
+  transition: color 0.3s, font-size 0.3s;
+  margin: 0;
+}
+
+
+.empezar:hover p {
+  color: #2c2c2c;
+  font-size: 20px;
+  font-weight: bold;
+  text-shadow: 0 0 10px #ffffff;
+}
+}
 </style>

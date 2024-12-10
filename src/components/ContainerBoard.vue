@@ -744,7 +744,7 @@ p {
 
   /* Fondo del tema "Batalla de Batallas" --------------------------------------------------------------------------------*/
   .battle-background {
-  background: url("/Secreto/e8c8566c-d7f8-4d69-9fbf-3d825ad53b68.jpg") center/cover no-repeat;
+  background: url("/Secreto/descargar.jfif") center/cover no-repeat;
   filter: blur(8px); /* Aplica un desenfoque al fondo */
   position: fixed;
   top: 0;

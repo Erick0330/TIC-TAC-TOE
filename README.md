@@ -1,5 +1,9 @@
-# tic-tac-toe 
+# Tic-Tac-Toe 
 
+
+Web application built on Vue.js of the Tic-Tac-Toe game. The essence of this game is to travel through different worlds each time a player wins the game, changing the theme of the background and the icons of O and X. Link to display in render: https://tic-tac-toe-anime.onrender.com
+
+<img width="48%" src="Captura de pantalla (43).png"/>
 
 
 ## Recommended IDE Setup

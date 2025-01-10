@@ -8,7 +8,7 @@ Web application built on Vue.js of the Tic-Tac-Toe game. The essence of this gam
   <img width="48%" src="Captura de pantalla (44).png"/>
 </div>
 
-<div align="center">
+<div align="left">
   <img width="97%" src="Captura de pantalla (47).png"/>
 <div>
 
